@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there! It's Jintao Ma from Erasmus Mundus Program of [Big Data Management and Analytics](https://bdma.ulb.ac.be/).
+It's Jintao Ma from Erasmus Mundus Program of [Big Data Management and Analytics](https://bdma.ulb.ac.be/).
 
 🔭 I’m a first-year Msc student and I will study in three nice universities in EU.
 
