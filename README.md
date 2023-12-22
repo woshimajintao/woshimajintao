@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there! It's Jintao Ma from the University of Hong Kong.
+Hello there! It's Jintao Ma from Erasmus Mundus Program of [Big Data Management and Analytics](https://bdma.ulb.ac.be/).
 
-🔭 I’m a first-year MA. student.
+🔭 I’m a first-year Msc student and I will study in three nice universities in EU.
 
-🌱 My current research interests include Graph Learning and Large Language Models (LLMs).
+💌 I'm broadly interested in data science, especially data visualization.
 
-💌 I'm broadly interested in AIGC techniques.
-
-📫 Feel free to connect with me via email.
-
-⚡ Fun fact: INTJ, but always be recognized as E!
+📫 Feel free to connect with me via email mars19990123@gmail.com or [Linkedin](https://www.linkedin.com/in/jintao-m-758b26158).
