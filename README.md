@@ -20,7 +20,7 @@ It's Jintao Ma from Erasmus Mundus Program of [Big Data Management and Analytics
 🔭 I’m a first-year Msc student and I have studied in Europe(Brussels,Barcelona,Paris) and China(Beijing).
 
 
-  (Université libre de Bruxelles/Universitat Politècnica de Catalunya/CentraleSupélec-Université Paris-Saclay)
+  ([Université libre de Bruxelles](https://www.ulb.be/en)/[Universitat Politècnica de Catalunya](https://www.upc.edu/en?set_language=en)/[CentraleSupélec-Université Paris-Saclay](https://www.universite-paris-saclay.fr/en))
 
 💌 I'm broadly interested in data science, especially data visualization.
 
