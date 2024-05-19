@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 It's Jintao Ma from Erasmus Mundus Program of [Big Data Management and Analytics](https://bdma.ulb.ac.be/).
 
-🔭 I’m a first-year Msc student and I have studied in EU.(Université libre de Bruxelles/Universitat Politècnica de Catalunya/CentraleSupélec-Université Paris-Saclay)
+🔭 I’m a first-year Msc student and I have studied in EU.
+  (Université libre de Bruxelles/Universitat Politècnica de Catalunya/CentraleSupélec-Université Paris-Saclay)
 
 💌 I'm broadly interested in data science, especially data visualization.
 
