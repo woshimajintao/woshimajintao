@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 It's Jintao Ma from Erasmus Mundus Program of [Big Data Management and Analytics](https://bdma.ulb.ac.be/).
 
-🔭 I’m currently working on Inria Saclay as a data science intern.
+🔭 I’m currently working at [Inria Saclay](https://www.inria.fr/fr/centre-inria-de-saclay) as a data science intern.
 
 🌱 I’m a second-year Msc student. I had studied in Europe(Brussels,Barcelona,Paris) and China(Beijing).
 
