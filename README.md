@@ -23,6 +23,6 @@ It's Jintao Ma from Erasmus Mundus Program of [Big Data Management and Analytics
 
   ([Université libre de Bruxelles](https://www.ulb.be/en)/[Universitat Politècnica de Catalunya](https://www.upc.edu/en?set_language=en)/[CentraleSupélec-Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)/[Beijing Jiaotong University](http://en.scit.bjtu.edu.cn/))
 
-💌 I'm broadly interested in data science, especially data visualization.
+💌 I'm broadly interested in data science, especially machine learning and data visualization.
 
 📫 Feel free to connect with me via email mars19990123@gmail.com or [Linkedin](https://www.linkedin.com/in/jintao-m-758b26158).
