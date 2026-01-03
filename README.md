@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-It’s Jintao Ma, who graduated with Distinction Grade from the [Erasmus Mundus Joint Master’s](https://bdma.ulb.ac.be/](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters) program of [Big Data Management and Analytics](https://bdma.ulb.ac.be/).
+It’s Jintao Ma, who graduated with Distinction Grade from the [Erasmus Mundus Joint Master’s](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters) program of [Big Data Management and Analytics](https://bdma.ulb.ac.be/).
 
 💼 Currently I am working at [KAUST](https://www.kaust.edu.sa/en/) as a remote research engineer.
 
