@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 It's Jintao Ma from Erasmus Mundus Program of [Big Data Management and Analytics](https://bdma.ulb.ac.be/).
 
-🔭 I’m currently working at [Inria Saclay](https://www.inria.fr/fr/centre-inria-de-saclay) as a data science intern.
+💼 Currently I am working at [KAUST](https://www.kaust.edu.sa/en/) as a remote research engineer.
 
-🌱 I’m a second-year Msc student. I had studied in Europe(Brussels,Barcelona,Paris) and China(Beijing).
+🔭 Previous I worked at [Inria Saclay](https://www.inria.fr/fr/centre-inria-de-saclay) as a data science intern.
 
+🌱 I’m a Data Science M.Sc. graduate from CentraleSupélec (Université Paris-Saclay), and I also hold an Ingénieur Civil en Informatique degree from Université libre de Bruxelles (ULB). I studied in Europe (Brussels, Barcelona, Paris) and China (Beijing).
   ([Université libre de Bruxelles](https://www.ulb.be/en)/[Universitat Politècnica de Catalunya](https://www.upc.edu/en?set_language=en)/[CentraleSupélec-Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)/[Beijing Jiaotong University](http://en.scit.bjtu.edu.cn/))
 
 💌 I'm broadly interested in data science, especially machine learning and data visualization.
