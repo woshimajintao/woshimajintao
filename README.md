@@ -25,4 +25,4 @@ It’s Jintao Ma, who graduated with **Distinction** Grade from the [**Erasmus M
 
 💌 I'm broadly interested in AI and data science, especially sport analytics.
 
-📫 Feel free to connect with me via email **mars19990123@gmail.com** or [Linkedin](https://www.linkedin.com/in/jintao-m-758b26158).
+📫 Feel free to connect with me via email **mars19990123 [AT] gmail [DOT] com** or [Linkedin](https://www.linkedin.com/in/jintao-m-758b26158).
